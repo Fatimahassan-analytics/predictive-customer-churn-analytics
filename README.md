@@ -3,7 +3,8 @@
 
 Predicting which telecom customers are most likely to churn in the next 30–60 days, and quantifying the business drivers behind the decision.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** _https://predictive-customer-churn-analytics-izc6lekqlhsiwkwlvlaf4v.streamlit.app/_
+
 **Author:** Fatima Hassan — [github.com/Fatimahassan-analytics](https://github.com/Fatimahassan-analytics)
 
 ---
